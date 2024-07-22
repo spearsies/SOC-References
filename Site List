@@ -1,28 +1,34 @@
 SOC Reference Sites 
 //These are links to various references for SOC Analyst, Threat Hunters and general Infosec
 
-https://github.com/rod-trent/Sentinel-SOC-101
-https://github.com/rod-trent/MustLearnKQL
-https://github.com/rod-trent/AddictedtoKQL
-https://github.com/Azure/Azure-Sentinel
-https://github.com/OpenCTI-Platform/opencti
-https://github.com/WeaverHeavy/Threat-Intelligence-Tradecraft
-https://github.com/farukokutan/Threat-Intelligence-Research-Reports\
-https://github.com/center-for-threat-informed-defense/sightings_ecosystem
-https://github.com/center-for-threat-informed-defense/m3tid
-https://github.com/center-for-threat-informed-defense/tram
-https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings
-https://github.com/center-for-threat-informed-defense/attack-flow
-https://github.com/center-for-threat-informed-defense/cti-blueprints
-https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection
-https://github.com/nicolonsky/ITDR (ITDR - Identity Threat Detection and Response)
-https://github.com/HVCK-Magazine/HVCK-Magazine.github.io //Welcome to the new home of HVCK Magazine.
-https://github.com/LetsDefend/SOC-Interview-Questions 
-https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/kql-quick-reference
-https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404
-https://adoption.microsoft.com/en-us/ninja-show/#on-demand
-https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/?sort-by=newest-oldest&date=any
-https://kravensecurity.com/cti-report-writing/
-https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc
-https://www.activecountermeasures.com/wp-content/uploads/2023/10/Network_Threat_Hunting_-_202310.pdf
-https://cyware.com/resources/threat-briefings/daily-threat-briefing/cyware-daily-threat-intelligence-july-19-2024-1298
+1. **GitHub Repositories**:
+   - [Sentinel-SOC-101](https://github.com/rod-trent/Sentinel-SOC-101)
+   - [MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
+   - [AddictedtoKQL](https://github.com/rod-trent/AddictedtoKQL)
+   - [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
+   - [OpenCTI-Platform](https://github.com/OpenCTI-Platform/opencti)
+   - [Threat-Intelligence-Tradecraft](https://github.com/WeaverHeavy/Threat-Intelligence-Tradecraft)
+   - [Threat-Intelligence-Research-Reports](https://github.com/farukokutan/Threat-Intelligence-Research-Reports)
+   - [sightings_ecosystem](https://github.com/center-for-threat-informed-defense/sightings_ecosystem)
+   - [m3tid](https://github.com/center-for-threat-informed-defense/m3tid)
+   - [tram](https://github.com/center-for-threat-informed-defense/tram)
+   - [attack-control-framework-mappings](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
+   - [attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow)
+   - [cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints)
+   - [Threat-Hunting-and-Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
+   - [ITDR (Identity Threat Detection and Response)](https://github.com/nicolonsky/ITDR)
+   - [HVCK Magazine](https://github.com/HVCK-Magazine/HVCK-Magazine.github.io) (Welcome to the new home of HVCK Magazine)
+
+2. **Microsoft Resources**:
+   - [KQL Quick Reference](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/kql-quick-reference)
+   - [Azure Data Explorer KQL Cheat Sheets](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404)
+   - [Ninja Show](https://adoption.microsoft.com/en-us/ninja-show/#on-demand)
+   - [Microsoft Security Threat Actors](https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/?sort-by=newest-oldest&date=any)
+
+3. **Other Resources**:
+   - [CTI Report Writing](https://kravensecurity.com/cti-report-writing/)
+   - [Elevate Your Threat Intel Reports with CTI Blueprints](https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc)
+   - [Network Threat Hunting (PDF)](https://www.activecountermeasures.com/wp-content/uploads/2023/10/Network_Threat_Hunting_-_202310.pdf)
+   - [Cyware Daily Threat Intelligence (July 19, 2024)](https://cyware.com/resources/threat-briefings/daily-threat-briefing/cyware-daily-threat-intelligence-july-19-2024-1298)
+
+Feel free to explore these valuable resources! 🚀🔍
