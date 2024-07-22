@@ -25,7 +25,72 @@ SOC Reference Sites
    - [Ninja Show](https://adoption.microsoft.com/en-us/ninja-show/#on-demand)
    - [Microsoft Security Threat Actors](https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/?sort-by=newest-oldest&date=any)
 
-3. **Other Resources**:
+3. **ℹ️ Here’s a comprehensive list of top VMs tailored for various cybersecurity domains, from Pentesting and Red Teaming to Digital Forensics and Privacy:
+
+💿 Kali Purple (SOC-in-a-box):
+https://www.kali.org/get-kali/#kali-installer-images
+
+💿 Kali Linux (Pentesting):
+https://www.kali.org/get-kali/#kali-virtual-machines
+
+💿 Predator-OS (Pentesting):
+https://predator-os.ir/
+
+💿 BlackArch Linux (Pentesting):
+https://blackarch.org/index.html
+
+💿 BackBox (Pentesting):
+https://www.backbox.org/
+
+💿 Kookarai (Pentesting):
+https://kookarai.idocker.hacking-lab.com/
+
+💿 ParrotOS (Red and Blue Team operation):
+https://parrotsec.org/
+
+💿 Commando VM (Windows-based Pentesting/Red Teaming):
+https://github.com/mandiant/commando-vm
+
+💿 Whonix (Privacy and Anonymity):
+https://www.whonix.org/wiki/Download
+
+💿 Tails (Privacy and Anonymity):
+https://tails.net/
+
+💿 Qubes OS (Hypervisor):
+https://www.qubes-os.org/
+
+💿 Mandiant Threat Pursuit (Windows-based Threat Intelligence and Hunting):
+https://github.com/mandiant/ThreatPursuit-VM
+
+💿 Tsurugi Linux (Digital Forensics and OSINT):
+https://tsurugi-linux.org/downloads.php
+
+💿 SIFT Workstation (Digital Forensics):
+https://www.sans.org/tools/sift-workstation/
+
+💿 CSI Linux (Digital Forensics):
+https://csilinux.com/
+
+💿 CAINE (Digital Forensics):
+https://www.caine-live.net/page5/page5.html
+
+💿 RedHunt-OS Linux (Adversary Emulation and Threat Hunting):
+https://github.com/redhuntlabs/RedHunt-OS
+
+💿 FLARE-VM (Reverse Engineering):
+https://github.com/mandiant/flare-vm
+
+💿 REMnux (Reverse Engineering/Malware Analysis):
+https://remnux.org/
+
+💿 Trace Labs OSINT VM (OSINT to Find Missing Persons):
+https://www.tracelabs.org/initiatives/osint-vm
+
+💿 Security Onion (Threat Hunting, Network Security Monitoring, and Log Management):
+https://github.com/Security-Onion-Solutions/securityonion/blob/2.4/main/DOWNLOAD_AND_VERIFY_ISO.md
+
+4. **Other Resources**:
    - [CTI Report Writing](https://kravensecurity.com/cti-report-writing/)
    - [Elevate Your Threat Intel Reports with CTI Blueprints](https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc)
    - [Network Threat Hunting (PDF)](https://www.activecountermeasures.com/wp-content/uploads/2023/10/Network_Threat_Hunting_-_202310.pdf)
