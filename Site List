@@ -20,10 +20,15 @@ SOC Reference Sites
    - [HVCK Magazine](https://github.com/HVCK-Magazine/HVCK-Magazine.github.io) (Welcome to the new home of HVCK Magazine)
 
 2. **Microsoft Resources**:
-   - [KQL Quick Reference](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/kql-quick-reference)
-   - [Azure Data Explorer KQL Cheat Sheets](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404)
-   - [Ninja Show](https://adoption.microsoft.com/en-us/ninja-show/#on-demand)
-   - [Microsoft Security Threat Actors](https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/?sort-by=newest-oldest&date=any)
+
+💿 KQL Quick Reference
+https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/kql-quick-reference
+💿 Azure Data Explorer KQL Cheat Sheets
+https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404)
+💿 Ninja Show
+ https://adoption.microsoft.com/en-us/ninja-show/#on-demand
+💿 Microsoft Security Threat Actors
+https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/?sort-by=newest-oldest&date=any
 
 3. **ℹ️ Here’s a comprehensive list of top VMs tailored for various cybersecurity domains, from Pentesting and Red Teaming to Digital Forensics and Privacy:
 
@@ -90,10 +95,39 @@ https://www.tracelabs.org/initiatives/osint-vm
 💿 Security Onion (Threat Hunting, Network Security Monitoring, and Log Management):
 https://github.com/Security-Onion-Solutions/securityonion/blob/2.4/main/DOWNLOAD_AND_VERIFY_ISO.md
 
-4. **Other Resources**:
-   - [CTI Report Writing](https://kravensecurity.com/cti-report-writing/)
-   - [Elevate Your Threat Intel Reports with CTI Blueprints](https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc)
-   - [Network Threat Hunting (PDF)](https://www.activecountermeasures.com/wp-content/uploads/2023/10/Network_Threat_Hunting_-_202310.pdf)
-   - [Cyware Daily Threat Intelligence (July 19, 2024)](https://cyware.com/resources/threat-briefings/daily-threat-briefing/cyware-daily-threat-intelligence-july-19-2024-1298)
+4. ℹ️ Here’s a comprehensive list of Other Resources:
+
+💿 
+https://www.cmdzero.io/blog-posts/transforming-cyber-investigations-the-power-of-asking-the-right-questions
+💿 
+https://medium.com/
+💿 
+https://dataconnectors.com/events/2024/phoenix?utm_campaign=Dallas%20May%202024&utm_medium=email&_hsenc=p2ANqtz-9hfmn0juGpnB_BLsgID673YuQkSpz3uM79mku2cQwJODHCg3kUj2aNsr8fdK8e9A8e5g_qthfmYaHsY3ncFYgeMwRPaA&_hsmi=310150880&utm_content=310150880&utm_source=hs_automation
+💿 
+https://cloudsec.securityweek.com/
+💿 
+https://www.thehacker.recipes/a-d/movement/credentials/dumping/ntds
+💿 
+https://www.maxwellleadership.com/page/2/?s=staying+a+step+ahead
+💿 
+https://clouddamcdnprodep.azureedge.net/gdc/gdcFxHt1n/original?ocid=eml_pg434358_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGTSavnahs-aGzqgrAGMVpINNVkCItRPzz3i4jspKXx2tGwQNwEGFkIZmP4i1UaXHrfWvSI4H8UBao57Ub_aJsvPfPY-QS_nwGvi3Q4k2Z5TqxslU9hv4oOSQHa
+💿 
+https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot
+💿 
+https://replit.com/
+💿 
+https://www.blackhillsinfosec.com/webcast-how-to-detect-and-respond-to-business-email-m365-compromise-w-the-bhis-dfir-team/
+💿 
+https://events.zoom.us/ejl/AkpDyQVpyR66tX56H-1Dog1Kq4DqO4M-7L53MaSX6h3IHk571MCK~A29aheIPQDDL7Eny-c-b1vP2kl42rf0Qw-wH05ohl1Ih7mpz55-UdzU0PlWJFIPQxgK-ZcyRBKfL1C47rM4M-sLuc54wi185z-hcI-Ug/home
+💿 
+https://medium.com/@brsdncr/malicious-document-analysis-ii-12b1e697457e
+💿 CTI Report Writing
+https://kravensecurity.com/cti-report-writing/
+💿 Elevate Your Threat Intel Reports with CTI Blueprints
+https://medium.com/mitre-engenuity/elevate-your-threat-intel-reports-with-cti-blueprints-b0d3b63174dc
+💿 Network Threat Hunting (PDF)
+https://www.activecountermeasures.com/wp-content/uploads/2023/10/Network_Threat_Hunting_-_202310.pdf
+💿 Cyware Daily Threat Intelligence (July 19, 2024)
+https://cyware.com/resources/threat-briefings/daily-threat-briefing/cyware-daily-threat-intelligence-july-19-2024-1298
 
 Feel free to explore these valuable resources! 🚀🔍
