@@ -1,57 +1,108 @@
-|      Tactic               |                Technique                         |                                             Details                                                                                                                         |
-|:-------------------------:|:------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  Initial Acces            |          Phishing (T1566)                        |  The actors use spearphishing emails to gain initial access.                                                                                                                     |
-|  Initial Acces            | Spear Phishing Attachment (T1566.001)            | Victims receive spear phishing emails with attached malicious zip files - typically password protected. That contains malicious doc including .doc, .pdf, .xls                                                                                                                      |
-|                           |                                                  |                                                                                                                                                                              |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|                           |                                                  |                                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
