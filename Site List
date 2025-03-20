@@ -2,7 +2,7 @@ SOC Reference Sites
 //These are links to various references for SOC Analyst, Threat Hunters and general Infosec
 
 1. **GitHub Repositories**:
-   - [Sentinel-SOC-101](https://github.com/rod-trent/Sentinel-SOC-101) <a href="https://github.com/rod-trent/Sentinel-SOC-101" title="Tricks Site">Sentinel-SOC-101</a>
+   - https://github.com/rod-trent/Sentinel-SOC-101
    - [MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
    - [AddictedtoKQL](https://github.com/rod-trent/AddictedtoKQL)
    - [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
